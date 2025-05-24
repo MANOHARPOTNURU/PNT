@@ -1,0 +1,19 @@
+Slot_ID,x1,y1,x2,y2,Status
+S1,439,195,512,296,Occupied
+S2,374,207,441,304,Occupied
+S3,506,201,578,300,Occupied
+S4,311,199,379,307,Occupied
+S5,21,231,93,327,Occupied
+S6,574,219,611,310,Occupied
+S7,21,111,102,212,Occupied
+E1,-1,-1,-1,-1,Estimated Empty
+E2,-1,-1,-1,-1,Estimated Empty
+E3,-1,-1,-1,-1,Estimated Empty
+E4,-1,-1,-1,-1,Estimated Empty
+E5,-1,-1,-1,-1,Estimated Empty
+E6,-1,-1,-1,-1,Estimated Empty
+E7,-1,-1,-1,-1,Estimated Empty
+E8,-1,-1,-1,-1,Estimated Empty
+E9,-1,-1,-1,-1,Estimated Empty
+E10,-1,-1,-1,-1,Estimated Empty
+E11,-1,-1,-1,-1,Estimated Empty
